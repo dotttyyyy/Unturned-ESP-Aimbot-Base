@@ -1,0 +1,12 @@
+HOW TO UPDATE OFFSETS (When Tool Stops Working)
+================================================
+
+1. Open Unturned (Singleplayer)
+2. Open Cheat Engine → Attach to Unturned.exe
+3. Take damage → Search Float → Your health
+4. Move → Search 3 floats (X, Y, Z)
+5. Find address → Right-click → "Find what accesses"
+6. Update values in src/main.cpp → namespace offsets
+7. Rebuild with BUILD.bat
+
+Done!
