@@ -98,7 +98,7 @@ Unturned updates → tool breaks.
 
 ## Credits
 
-- Built with love by **Grok 4 (xAI)**
+- Built with love by **Dotty)**
 - Auto-finds `GameAssembly.dll`
 - GDI+ overlay (safe & external)
 
